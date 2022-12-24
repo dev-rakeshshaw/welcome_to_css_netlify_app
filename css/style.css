@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap');
+
+body{
+    /* background-color:blue; */
+    font-family: 'Montserrat','serif';
+    background: linear-gradient(90deg,#FF9F4A 0%, #FF3C83 100%); 
+    color: #ffffff
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 20%;
+    color: #ffffff;
+    font-family: 'Montserrat';
+    font-weight: 400;
+}
+
+span{
+    color: #E8BD0D;
+    font-size:100px;
+    font-weight: 900;
+}
+
+p{
+    text-align: center;
+    margin-top: -20px;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+button{
+    margin: auto;
+    display: block;
+}
+
+.btn{
+    background-color: transparent;
+    border: 2px solid #E8BD0D;
+    border-radius: 0.6em;
+    color:#E8BD0D;
+    font-family: 'Montserrat';
+    font-size: 1rem;
+    font-weight: 900;
+    padding: 1.2em 2.5em;
+    cursor: grab;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.btn:hover{
+    color:#ffffff;
+    outline: 0px;
+}
+
+
+.lco{
+    transition: box-shadow 300ms ease-in-out ,color 300ms ease-in-out;
+}
+
+.lco:hover{
+    box-shadow: 0 0 40px 40px #E8BD0D inset;
+}
+
+#footer {
+    position: fixed;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/
+    height: 40px;
+    background: #E8BD0D;
+    color: #ffffff
+}
