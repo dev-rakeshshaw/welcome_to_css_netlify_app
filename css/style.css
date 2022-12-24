@@ -16,7 +16,7 @@ h1{
     font-weight: 400;
 }
 
-span{
+.css-span{
     color: #E8BD0D;
     font-size:100px;
     font-weight: 900;
@@ -74,4 +74,14 @@ button{
     height: 40px;
     background: #E8BD0D;
     color: #ffffff
+    
+}
+.heart-span{
+    color:#E21717;
+}
+
+.designer{
+    text-decoration:none;
+    color: #ffffff;
+    font-weight: bold;
 }
