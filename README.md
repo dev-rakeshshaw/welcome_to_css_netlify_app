@@ -7,6 +7,6 @@
 In this class we discussed about pushing code to Git and GitHub.
 Also we talked about pushing website to [Netlify](https://www.netlify.com/ "Netlify") but you can also use [Vercel](https://vercel.com/ "Vercel")
 
-[Welcome To CSS Netlify App](https://welcome-to-css.netlify.app/ "Welcome To CSS Netlify App Link")
+[Welcome To CSS Netlify App Link](https://welcome-to-css.netlify.app/ "Welcome To CSS Netlify App Link")
 
 ![Website Screenshot](./screenshot.PNG)
